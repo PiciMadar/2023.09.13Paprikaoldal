@@ -1,0 +1,99 @@
+body{
+    background-color: papayawhip;
+    color: saddlebrown;
+    padding-left: 100px;
+    padding-right: 100px;
+    text-align: justify;
+}
+
+li{
+    padding-top: 5px;
+    list-style-image: url("../letöltött fájlok/képek/chili-pepper-icon.gif");
+    border-style: solid;
+    margin: 15px;
+    padding-left: 10px;
+    background-color: white;
+    border-color: cyan;
+    border-width: 2px;
+    color: black;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+img{
+    border-style: solid;
+    border-width: 1px;
+    position: relative;
+}
+
+h1{
+    background-image: url("../letöltött fájlok/képek/szines.jpg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 1000px;
+    height: 100px;
+    padding-left: 25px;
+    padding-right: 100px;
+    padding-top: 60px;
+    color: black;
+}
+
+.jobbra {
+    float: right;
+    width: 75%;
+    margin:auto;
+}
+
+.balra {
+    float: left;
+    width: 25%;
+    margin: auto;
+}
+
+table{
+    width: 300px;
+    font-weight: bold;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    border-color: gray;
+}
+
+td{
+    border: solid 1px;
+    border-color: gray;
+}
+
+.masodik{
+    text-align: center;
+    padding: 5px;
+}
+
+#zold{
+    background-color: lime;
+}
+
+#sarga{
+    background-color: lightyellow;
+}
+
+#piros{
+    background-color: lightcoral;
+}
+
+#lila{
+    background-color: blueviolet;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: black;
+}
+
+#fajtaiszoveg{
+    text-align:left;
+}
